@@ -2,7 +2,7 @@
 
 > **A SQL + Power BI analytics project for monitoring loan portfolio performance, delinquency, defaults, and credit-risk indicators.**
 
-![Credit Risk Analytics Dashboard](screenshots/Credit_Risk_Analytics_Dashboard.jpg)
+![Credit Risk Analytics Dashboard](/Credit_Risk_Analytics_Dashboard.jpg)
 
 ## 📌 Overview
 
